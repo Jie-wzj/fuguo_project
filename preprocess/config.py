@@ -1,4 +1,5 @@
 base_path = './data/'
+root_path = '..'
 
 # 常用估值指标包括市盈率（PE）、市净率（PB）、市销率（PS）、市现率（PCF） 等
 # valuations = ['PE', 'PB', 'PS', 'PCF']
